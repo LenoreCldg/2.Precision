@@ -21,5 +21,5 @@ public class Main {
 ## Результаты
 
 1. 0% успешных/100% не успешных тестов
-2. Ссылки на баг-репорты
+2. Ссылка на баг-репорт https://github.com/LenoreCldg/2.Precision/issues/1
 
